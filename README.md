@@ -7,11 +7,6 @@
         <h1>Dipesh Ramteke</h1>
         <p>SEO Enthusiast | Learner | Future Entrepreneur</p>
     </header>
-<head>
-    <h1>Dipesh Ramteke</h1>
-    <p>SEO Enthusiast | Learner | Future Entrepreneur</p>
-  </header>
-
   <nav>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
