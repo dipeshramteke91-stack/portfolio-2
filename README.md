@@ -3,8 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SEO Portfolio - Dipesh Ramteke</title>
-  <style>
    <header>
     <h1>Dipesh Ramteke</h1>
     <p>SEO Enthusiast | Learner | Future Entrepreneur</p>
